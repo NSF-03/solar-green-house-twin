@@ -1,0 +1,25 @@
+# Unity generates these; never commit them
+Library/
+Temp/
+Logs/
+obj/
+UserSettings/
+Build/
+Builds/
+MemoryCaptures/
+.vs/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+# The scene and the config asset are made on each machine by the menu SolarGrow/Create Twin Scene
+Assets/SolarGrow/Scenes/
+Assets/SolarGrow/Scenes.meta
+Assets/SolarGrow/Config/
+Assets/SolarGrow/Config.meta
